@@ -1,6 +1,6 @@
 # Agrega.la
 
-*SUMMARY*
+**SUMMARY**
 
 Agrega.la is a network working in Brazil, Argentina, Colombia and Mexico. It aims to promote the visibility of contents and actions between independent, free or communitary media.
 
@@ -9,7 +9,7 @@ This platform constantly copy posts published in Facebook of all groups register
 Beside it, Agrega.la also collect contents from blogs via RSS y Twitter. 
 
 
-*DESCRIPCIÓN*
+**DESCRIPCIÓN**
 Agrega.la es una red presente en Brasil, Argentina, Colombia y México,
 que tiene como objetivo promover la visibilización de contenidos y
 acciones entre medios independientes, libres o comunitarios.
