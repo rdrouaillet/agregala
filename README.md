@@ -10,6 +10,7 @@ Beside it, Agrega.la also collect contents from blogs via RSS y Twitter.
 
 
 **DESCRIPCIÓN**
+
 Agrega.la es una red presente en Brasil, Argentina, Colombia y México,
 que tiene como objetivo promover la visibilización de contenidos y
 acciones entre medios independientes, libres o comunitarios.
